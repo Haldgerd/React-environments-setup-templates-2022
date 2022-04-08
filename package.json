@@ -1,6 +1,0 @@
-{
-  "devDependencies": {
-    "@vitejs/plugin-legacy": "^1.8.0",
-    "sass": "^1.50.0"
-  }
-}
